@@ -262,7 +262,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Tienes:'
+  m_Text: 'You have:'
 --- !u!222 &364015301
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -394,6 +394,7 @@ MonoBehaviour:
   - Opcion D
   - Opcion D
   prizes: []
+  pullCode: 122
 --- !u!4 &1378684923
 Transform:
   m_ObjectHideFlags: 0
@@ -460,7 +461,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Conseguiste:'
+  m_Text: 'You get:'
 --- !u!222 &1731205185
 CanvasRenderer:
   m_ObjectHideFlags: 0
