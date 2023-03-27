@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
             int repeat = int.Parse(textReader[0].Trim());
             string prizeOpt = textReader[1].Trim();
 
-            for(int i = 0; i > repeat;i++){
+            for(int i = 0; i < repeat;i++){
                 prizeList.Add(prizeOpt);
             }
         
